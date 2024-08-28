@@ -1,0 +1,6 @@
+[book]
+authors = ["Yaniu", "Yaaniu", "Genemor", "Abdurahman", "Maksim"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Epsilon Blog"
