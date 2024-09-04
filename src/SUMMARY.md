@@ -1,7 +1,7 @@
 
 # Epsilon Blog
 
-Welcome to the blog of [Epsilon](./SUMMARY.md), Where we discus current problems regarding the state of AI
+Welcome to the blog of [Epsilon](./SUMMARY.md), Where we discuss current problems regarding the state of AI
 
 The Blog is managed by 6 members
 
